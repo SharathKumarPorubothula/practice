@@ -7,4 +7,5 @@ print(mid)
 c=input("enter your number")
 print(c)
 print("this is git practic trails")
+print("here I'm goining to merge with sub-branch to practice")
 
